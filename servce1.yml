@@ -3,6 +3,5 @@ spring:
     console:
       enabled: true
       path: /console2
-
 server:
   port: 9001
