@@ -1,0 +1,8 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /console2
+
+server:
+  port: 9001
